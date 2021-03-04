@@ -1,2 +1,2 @@
 # Sens-Fortress
-A text-based version of the original Dark Souls's Sens Fortress.
+A text-based version of the Sen's Fortress area from the original Dark Souls.
